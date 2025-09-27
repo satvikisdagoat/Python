@@ -1,0 +1,15 @@
+1. List – Find Even Numbers 
+   user should provide the input of list, should return even numbers in result list   
+     
+2. Tuple – Swap Elements
+    user should provide tuple as input, result should be elements swapped in result tuple
+
+3. String – Count Vowels
+   user should provide input as string, result should be number of vowels
+   input: 
+
+4. Reverse an Integer Without String Conversion
+   Reverse the given input integrer, result should return reversed number
+
+5. Fibonacci Sequence
+   provide the input, it should return fibonacci series upto that input number.
