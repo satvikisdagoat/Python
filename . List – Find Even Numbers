@@ -1,0 +1,8 @@
+text = input("Please type numbers with spaces: ")
+pieces = text.split()
+evens = []
+for each in pieces:
+    number = int(each)
+    if number % 2 == 0:
+        evens.append(number)
+print("These are the even numbers:", evens)
