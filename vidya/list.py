@@ -1,0 +1,11 @@
+l=[10,5,"vidya","satvik",10,45]
+s=l[-2]
+print(s)
+l.remove(10)
+print(l)
+l.remove(10)
+print(l)
+l.append(10)
+print(l)
+l.append(10)
+print(l)
