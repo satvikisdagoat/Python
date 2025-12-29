@@ -1,0 +1,8 @@
+numbers = (10, 20, 30, 40, 50)
+
+total = 0  # This will store the sum
+
+for num in numbers:
+    total += num  # Add each number to total
+
+print("Sum of all elements:", total)
