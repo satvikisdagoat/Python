@@ -1,0 +1,9 @@
+list1 = ["A", "B", "C"]
+list2 = [10, 20, 30]
+
+my_dict = {}
+
+for i in range(len(list1)):
+    my_dict[list1[i]] = list2[i]
+
+print(my_dict)
