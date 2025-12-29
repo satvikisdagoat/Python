@@ -1,0 +1,14 @@
+students = {}
+
+n = int(input("How many students? "))
+
+for i in range(n):
+    name = input("Enter student name: ")
+    marks = int(input("Enter marks: "))
+    students[name] = marks
+
+print("Students who scored more than 75:")
+
+for name in students:
+    if students[name] > 75:
+        print(name)
