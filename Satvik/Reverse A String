@@ -1,0 +1,11 @@
+text = input("Enter a string: ")
+
+reverse_text = ""
+
+for ch in text:
+    reverse_text = ch + reverse_text
+
+print("Reversed string:", reverse_text)
+
+
+# I took help from chatGPT to write this program ...
